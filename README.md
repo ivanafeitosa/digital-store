@@ -20,5 +20,10 @@ npm run server
 npm run dev
 
 ```
+## Resultado
+
+https://github.com/ivanafeitosa/digital-store/assets/105730445/62baa8ba-1b9a-48bf-8d5f-8a39b5e4d051
+
+
 
 
