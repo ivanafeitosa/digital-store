@@ -1,8 +1,24 @@
-# React + Vite
+# E-commerce Digital Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém uma página web responsiva, que é um e-commerce completo. O projeto tem sido desenvolvido por mim como atividade da turma FullStack Live da Digital College. A atividade coloca em prática habilidades técnicas como:
 
-Currently, two official plugins are available:
+* Criação e manipulação de componentes em React;
+* Uso de props;
+* Requisições a APIs;
+* Estilização com Styled Components;
+* Criação e validação de formulários com React Hook Form;
+* Hooks (useState, useEffect, useContext, useRef, useMemo, useCallback);
+* Custom Hooks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A aplicação consome uma API fake criada com json-server
+
+## Para executar a aplicação
+
+```
+npm install
+npm run server
+npm run dev
+
+```
+
+
